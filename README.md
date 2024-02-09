@@ -26,7 +26,7 @@
 
 [ ] Refrgierators:
 
-- [Large](https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/pdf/20180419/WillitFit_RF28NHEDB_V2.pdf
+- [Large](https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/pdf/20180419/WillitFit_RF28NHEDB_V2.pdf)
 
 - [Mini](https://www.frigidaire.com/en/p/kitchen/refrigerators/beverage-center-refrigerators/FRYB4623AS)
 
